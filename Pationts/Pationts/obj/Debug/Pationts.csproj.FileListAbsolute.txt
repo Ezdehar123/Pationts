@@ -1,0 +1,8 @@
+C:\Users\Akkij\source\repos\Pationts\Pationts\obj\Debug\Pationts.csproj.AssemblyReference.cache
+C:\Users\Akkij\source\repos\Pationts\Pationts\obj\Debug\Pationts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Akkij\source\repos\Pationts\Pationts\obj\Debug\Pationts.csproj.CoreCompileInputs.cache
+C:\Users\Akkij\source\repos\Pationts\Pationts\bin\Debug\Pationts.exe.config
+C:\Users\Akkij\source\repos\Pationts\Pationts\bin\Debug\Pationts.exe
+C:\Users\Akkij\source\repos\Pationts\Pationts\bin\Debug\Pationts.pdb
+C:\Users\Akkij\source\repos\Pationts\Pationts\obj\Debug\Pationts.exe
+C:\Users\Akkij\source\repos\Pationts\Pationts\obj\Debug\Pationts.pdb
